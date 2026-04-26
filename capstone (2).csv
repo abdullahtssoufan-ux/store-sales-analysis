@@ -1,0 +1,141 @@
+OrderID,OrderDate,CustomerID,Segment,Region,Channel,Category,Product,Quantity,UnitPrice,Discount,ShippingCost,Returned,PaymentMethod,NetSales,Profit
+O517925,10/22/2025,C80651,Consumer,North,STORE,Electronics,Mouse,6,296.99,0.2,15.5,Yes,Transfer,1425.55,140.02
+O754347,9/14/2025,C65503,Home Office, south ,Partner,Electronics,Headphones,7,146,0,18,Yes,Wallet,1022,159.36
+O052683,9/21/2025,C09149,Corporate, east ,Partner,Electronics,Headphones,1,231.49,,3.5,No,Wallet,219.92,29.23
+O889086,10/16/2025,C99149,Home Office,East,Partner,Furniture,Lamp,3,$6.99 ,0.15,19.5,No,Cash,17.82,-16.58
+O931209,9/8/2025,C72211,Corporate,West,Online,Office Supplies,Folders,7,130,0,11,No,Wallet,910,166.15
+O790024,10/2/2025,C59588,Home Office,North, online ,Electronics, keyboard ,6,261.99,0.1,21,Yes,Wallet,1414.75,208.65
+O721042,10/9/2025,C27866,Home Office,East,Partner,Electronics,Mouse,3,252,0.1,23.5,No,Card,680.4,85.13
+O264601,7/28/2025,C17694,HOME OFFICE,West,Store,Electronics,Monitor,2,210.99,0.1,,No,Wallet,379.78,55.77
+O892010,7/7/2025,C76887,Corporate,East,Online,Furniture,,6,44.49,0.2,17.5,No,Wallet,213.55,21.93
+O435985,8/6/2025,C29195,Consumer,SOUTH,Partner,Office Supplies, paper ,2,18,0.1,4,No,Transfer,32.4,-1.27
+O538311,8/4/2025,C62175,Corporate,South,Online,Office Supplies,Folders,3,18,0.15,12.5,Yes,Wallet,45.9,-8.36
+O362670,10/13/2025,C36847,Home Office,NORTH,Online,ELECTRONICS,Mouse,3,49.49,0.15,19.5,No,Cash,126.2,5.07
+O466215,10/18/2025,C86833,Corporate, north ,Partner,Office Supplies,Stapler,1,254,0.2,12.5,No,Cash,203.2,4.84
+O533365,7/1/2025,C28496,Corporate,,Online,Office Supplies,Folders,5,39.99,,21,No,Transfer,189.95,25.75
+O915181,8/29/2025,C38450,Consumer,,Online,Electronics,Headphones,3,264.49,0.1,22,No,Cash,714.12,144.13
+O374067,10/7/2025,C28378, home office ,East,Partner,OFFICE SUPPLIES,Paper,4,218.49,0,,No,Wallet,873.96,133.53
+O276851,7/16/2025,C63370,Home Office,East, partner ,Electronics,Monitor,2,183.49,0.15,,No,Card,311.93,38.4
+O118757,10/4/2025,C61749,Home Office,North,Store,Furniture,Chair,5,329.49,0.2,4.5,No,Card,1317.96,269.96
+O730829,7/15/2025,C33440,Corporate,North,Online,Electronics, mouse ,3,296.99,0.1,,Yes,Transfer,801.87,175.88
+O691111,8/26/2025,C79911,Consumer,West,ONLINE,Office Supplies,Pens,3,250.49,0.15,10.5,No,Cash,638.75,52.33
+O133347,10/6/2025,C78149,Corporate,WEST,Partner,Office Supplies,Stapler,6,79.49,0.15,5,No,Card,405.4,30.07
+O958111,8/6/2025,C92829,Consumer,East,Partner,Electronics,Keyboard,5,90,0.05,19,No,Cash,427.5,18.02
+O939718,8/10/2025,C11682,Corporate,East,Partner,Office Supplies,,2,186.49,0,20.5,No,Transfer,372.98,49.34
+O597073,8/3/2025,C15999,Consumer, south ,Store,Office Supplies,Paper,2,84.49,0.2,20,No,Transfer,135.18,4.26
+O769733,9/25/2025,C29488,Consumer, west ,Store,Office Supplies,Stapler,1,267.49,0.15,24.5,Yes,Transfer,227.37,32.33
+O193548,7/31/2025,C13985,Home Office,North,Partner,Electronics,Headphones,7,$118.49 ,0.2,15,No,Transfer,663.54,50.23
+O464205,10/27/2025,C78689,Home Office,East,Store,Electronics,Keyboard,2,154,0.05,2.5,No,Wallet,292.6,40.52
+O909545,8/23/2025,C77069,Consumer,North,Partner,Office Supplies,Folders,6,166.99,0.05,3.5,No,Transfer,951.84,211.78
+O517487,8/27/2025,C41605, consumer ,,Partner,Electronics,Monitor,6,$30.49 ,0.1,9,No,Cash,164.65,33.11
+O231793,8/30/2025,C81486,Corporate,North,Store,Furniture,Lamp,1,287.99,0.15,17.5,No,Card,244.79,29.42
+O807388,9/8/2025,C50318,Home Office,North,Partner,Office Supplies,Pens,6,136.99,,4.5,Yes,Card,657.55,141.86
+O595334,9/5/2025,C67625,Corporate,South,Partner,Electronics, mouse ,3,150,0,9,No,Card,450,65.77
+O282354,8/31/2025,C92883,Corporate,North,Partner,Furniture,Desk,3,97,0.2,9,Yes,Transfer,232.8,13.04
+O535787,10/28/2025,C84814,Corporate, west ,Online,Electronics,Headphones,6,269.49,0.05,20,No,Transfer,1536.09,164.74
+O822415,10/5/2025,C84420,Home Office,North,Store,Office Supplies,Paper,2,240.99,0,10.5,No,Card,481.98,89.48
+O811103,10/4/2025,C93283,CONSUMER,North,Online,Furniture,Lamp,2,93.99,0,16,Yes,Wallet,187.98,25.72
+O040134,9/23/2025,C92656,Corporate,South,Partner,Furniture,Bookshelf,6,269.99,0.15,3,No,Card,1376.95,227.67
+O801411,9/13/2025,C13192,Consumer,South,Partner,Electronics,MOUSE,7,336,0,2,No,Cash,2352,409.29
+O563006,8/10/2025,C14614,Home Office,West,Store,Electronics,Keyboard,6,149.99,0.15,17,No,Wallet,764.95,180.89
+O993676,10/27/2025,C21908,Home Office,South, partner ,Furniture,Lamp,2,44,0,9,Yes,Wallet,88,14.15
+O789703,8/25/2025,C98673,Corporate,South,Online,Furniture,Lamp,3,181,0,11.5,No,Transfer,543,77.67
+O143007,7/26/2025,C12394,Consumer,South, store ,Office Supplies,Paper,4,325,0,11.5,No,Transfer,1300,314.41
+O385195,10/10/2025,C70672,Consumer,North,Online,Furniture,Chair,2,97.49,0.2,19,No,Transfer,155.98,-2.48
+O789277,7/20/2025,C85012,Corporate, east ,Online,Office Supplies,Paper,6,268.49,0.1,22,No,Transfer,1449.85,225.84
+O974284,10/11/2025,C34716,Home Office,North,ONLINE,Furniture,Lamp,2,138,0,9.5,No,Transfer,276,23.88
+O423789,9/12/2025,C26350,Corporate, south ,Store, electronics ,Monitor,6,$80.99 ,0,6,No,Cash,485.94,78.14
+O489800,7/14/2025,C55031,Corporate,North,Store,Office Supplies,Pens,6,$310.49 ,0.05,20.5,No,Cash,1769.79,331.62
+O407301,7/6/2025,C77032,Corporate,North,Store, office supplies ,Stapler,3,$285.99 ,0.05,24,Yes,Wallet,815.07,93.35
+O954145,8/23/2025,C95556,Corporate, north ,ONLINE,Electronics,Headphones,6,116.99,0.1,17.5,Yes,Transfer,631.75,134.47
+O654615,7/5/2025,C68851,Consumer,North,Store,Furniture,,6,$193.49 ,0.15,9,No,Card,986.8,143.42
+O614449,7/17/2025,C96132,Home Office,West,Partner,ELECTRONICS,Headphones,6,64.99,0.2,6.5,No,Cash,311.95,39.2
+O814823,8/31/2025,C49557,Consumer, west ,Online,Furniture,Chair,4,156.49,0,22,No,Wallet,625.96,122.06
+O908291,10/25/2025,C85144,Consumer,South,Store,Furniture,BOOKSHELF,5,233,0.1,13,No,Cash,1048.5,130.55
+O842859,8/25/2025,C57230,Corporate,North,Store,Office Supplies,Pens,2,119.49,0.15,19,No,Card,203.13,27.92
+O813916,10/6/2025,C24194,Home Office,North, store ,Office Supplies,Pens,3,212.49,0.2,17,No,Transfer,509.98,72.29
+O459485,10/19/2025,C17083, home office ,North,Partner,Electronics,Headphones,1,$328.49 ,0,10.5,No,Transfer,328.49,20.18
+O243949,10/7/2025,C96198, home office ,West,Store,OFFICE SUPPLIES,Stapler,3,146.99,0.15,18.5,No,Wallet,374.82,31.43
+O108705,9/14/2025,C47327,Home Office,South,Store,Furniture,Desk,1,167.99,0.05,6,No,Card,159.59,11.23
+O712196,8/22/2025,C25252,Home Office,South,Store,Office Supplies,Stapler,4,109.99,0.15,17,No,Card,373.97,60.51
+O712710,8/31/2025,C66074,Consumer, south , store ,Electronics,MONITOR,7,204.49,0,17,Yes,Transfer,1431.43,266.39
+O858627,8/1/2025,C27219,Consumer,SOUTH, partner ,OFFICE SUPPLIES, folders ,5,103.99,0.1,,No,Wallet,467.95,37.9
+O299492,8/29/2025,C03075, consumer ,East,Partner,Electronics,Keyboard,2,31.49,0,21,No,Cash,62.98,-15.57
+O901166,8/15/2025,C23968,Consumer,West,Store,Office Supplies,Stapler,2,224.49,0,22,No,Cash,448.98,33.6
+O019225,7/30/2025,C94353,Consumer,South,Partner,Electronics,,2,34.99,,13.5,No,Transfer,59.48,-1.39
+O972461,10/28/2025,C66520, home office ,East,PARTNER,Furniture,Bookshelf,1,312,0,5,No,Transfer,312,70.64
+O812765,7/2/2025,C98298,Home Office,North,Online,Furniture,Chair,7,143.49,0,10.5,No,Cash,1004.43,158.79
+O706515,7/12/2025,C37289,Home Office,West,PARTNER,Office Supplies,Folders,4,178,0,6,No,Wallet,712,133.43
+O124840,7/24/2025,C92161,Home Office,West,Store,Office Supplies,Pens,3,145.49,0.2,22.5,Yes,Transfer,349.18,45.66
+O707573,10/25/2025,C44935,Consumer,West,Online,Office Supplies,Stapler,2,24.99,0.05,5.5,No,Cash,47.48,0.7
+O585277,9/22/2025,C69159,Consumer,West,Partner,Furniture, lamp ,2,336.49,0.05,18,No,Wallet,639.33,70.21
+O460056,10/14/2025,C95028,Corporate,East, online ,Office Supplies,Pens,5,191.99,0.05,23,Yes,Cash,911.95,97.08
+O356205,7/25/2025,C86881,Home Office,South,Online,Electronics,Monitor,2,339.99,0,16.5,No,Wallet,679.98,122.48
+O852414,9/25/2025,C11899, consumer ,East,STORE,Furniture,Desk,6,53.49,0,8,No,Cash,320.94,29.78
+O437538,8/14/2025,C27394,Corporate, west ,Store,Furniture,Chair,5,317.49,,11.5,No,Card,1587.45,399.47
+O905455,8/28/2025,C10920,Consumer, west ,Partner,Office Supplies,Stapler,5,108.99,0.2,15,No,Cash,435.96,38.48
+O438571,7/1/2025,C85845,CONSUMER,EAST,Partner,Electronics, keyboard ,4,52,0.1,3.5,No,Card,187.2,43.82
+O865795,9/13/2025,C78289,Home Office,North,Store,FURNITURE,Lamp,4,253.49,0.05,20,Yes,Wallet,963.26,90.91
+O100946,10/8/2025,C49299, corporate ,East,Online,Office Supplies,Folders,6,114.49,0.15,22,No,Wallet,583.9,135.41
+O936540,9/18/2025,C01571,Corporate,West,Online,Office Supplies,Paper,4,131.99,0,22.5,No,Wallet,527.96,118.63
+O213754,7/19/2025,C14876,Home Office,North,Store, furniture ,Desk,3,106,0.15,20,No,Wallet,270.3,6.1
+O077028,9/3/2025,C26577,Corporate, west ,Online,Electronics,Headphones,1,300.99,0,24.5,No,Wallet,300.99,27.26
+O462990,8/2/2025,C70840,Home Office,East,Partner,Electronics,Mouse,1,$251.49 ,0,8,Yes,Card,251.49,41.86
+O488550,10/24/2025,C82535,Corporate,South,Partner,OFFICE SUPPLIES,Paper,7,267,0.1,19,No,Cash,1682.1,271.1
+O746814,10/14/2025,C53519,Corporate,South,Store,Electronics,Keyboard,4,121.99,0.05,8.5,Yes,Wallet,463.56,94.05
+O304978,7/23/2025,C12892,Consumer,East, online ,Electronics,Monitor,3,297,0.1,15.5,Yes,Cash,801.9,174.76
+O582164,8/31/2025,C86441,Consumer,North,Online,Electronics,Keyboard,4,176.49,0,21,No,Transfer,705.96,164.72
+O000270,10/21/2025,C09539,Home Office, west ,Partner,FURNITURE,Desk,2,142.49,0,23.5,No,Card,284.98,52.14
+O503779,10/10/2025,C94889,Consumer,North,Partner,Electronics,Mouse,2,$93.99 ,0,8,Yes,Wallet,187.98,35.75
+O250589,9/23/2025,C89893,Home Office,South,Store,Office Supplies, folders ,7,$39.99 ,0.15,16,No,Card,237.94,50.42
+O053677,9/15/2025,C92383,Home Office,South,PARTNER,Furniture, desk ,6,48,0.2,8,No,Cash,230.4,51.45
+O188195,7/6/2025,C43015,Consumer,,Store,Electronics, headphones ,1,259.49,0.1,21.5,No,Cash,233.54,8.24
+O277940,9/28/2025,C15435,Home Office,West, partner ,Office Supplies,Paper,6,252,0.2,12.5,Yes,Card,1209.6,102.49
+O547304,8/26/2025,C44566,Consumer,North,Store,Office Supplies,Folders,3,$346.99 ,0.15,17,No,Transfer,884.82,136.38
+O831554,7/11/2025,C14452,Consumer,South,Partner,Furniture,Desk,6,$293.99 ,0.2,,Yes,Transfer,1411.15,363.55
+O223526,7/30/2025,C10986,Home Office,West,Partner,Furniture,Lamp,2,279,0.1,10.5,No,Card,502.2,100.79
+O162442,9/3/2025,C70836,CONSUMER,East,Partner,Office Supplies,,2,115,0.1,15,No,Transfer,207,25.41
+O073256,9/26/2025,C73320,Corporate,North,Online,Furniture, lamp ,1,192.49,0.1,7.5,No,Wallet,173.24,8.34
+O660435,8/30/2025,C43566,CONSUMER,South,Store,OFFICE SUPPLIES,Pens,1,225,0.15,24,No,Transfer,191.25,4.51
+O612821,9/12/2025,C21320,Corporate,North,Partner,Office Supplies,Paper,7,231.49,0.2,16,No,Cash,1296.34,248.52
+O253422,10/13/2025,C12392,Corporate,South,Online,Electronics,Keyboard,3,251.99,0.2,,Yes,Wallet,604.78,52.36
+O962263,9/21/2025,C19208, home office ,South,Partner,Office Supplies,Folders,1,347,0.1,7.5,No,Wallet,312.3,63.74
+O462431,8/13/2025,C32380,Home Office,North,Partner,Furniture,Lamp,2,$245.99 ,0.05,23.5,No,Cash,467.38,75.55
+O165198,9/16/2025,C15014,Home Office,East,Partner,Electronics,Keyboard,5,85,0.15,15.5,No,Wallet,361.25,74.07
+O347394,9/10/2025,C65852,Home Office,North, store ,Furniture, lamp ,5,236,0.1,17,No,Card,1062,100.98
+O777875,7/13/2025,C65932,Home Office,South,Store,Office Supplies,Folders,1,180.99,0,2,No,Wallet,180.99,15.59
+O993109,7/8/2025,C34571,Corporate,East, store ,Furniture,Bookshelf,4,$111.00 ,0,8.5,No,Card,444,47.34
+O690741,9/18/2025,C48141,Corporate,East, partner ,Furniture,Bookshelf,6,40.99,0.05,24,No,Wallet,233.64,19.75
+O076247,8/16/2025,C09983,Consumer,West,Partner,Furniture,Lamp,5,70.49,0,18.5,No,Card,352.45,10.52
+O416249,9/10/2025,C42619, corporate ,West,Online,Furniture,Desk,5,280.99,0,,No,Cash,1404.95,129.17
+O923456,8/8/2025,C62393, home office ,East,Online,Office Supplies,Stapler,4,157,0,5,No,Wallet,628,54.75
+O122819,7/28/2025,C11133,Home Office,SOUTH,PARTNER, office supplies , stapler ,6,102.49,0.15,23.5,No,Transfer,522.7,21.77
+O866990,7/19/2025,C39638,Corporate,South,Partner,Office Supplies,Stapler,2,122.49,0,22,No,Cash,244.98,39.3
+O541765,8/15/2025,C65084,Home Office,North,Store,Office Supplies,Pens,2,$224.00 ,0.15,13,No,Cash,380.8,91.03
+O116825,10/6/2025,C06162,Consumer,WEST,STORE,Electronics,HEADPHONES,4,148.99,0,9,No,Wallet,595.96,41.22
+O962897,8/18/2025,C58298,Consumer,West,Store,Office Supplies,Pens,4,289.99,0,21,No,Wallet,1159.96,141.09
+O516374,8/15/2025,C80492,Corporate,West,Partner,Office Supplies,Folders,5,170.99,,16.5,No,Wallet,812.2,71.41
+O203343,9/8/2025,C92706,Home Office,East,Online,Office Supplies,Folders,7,98,0.05,3,No,Wallet,651.7,85.12
+O658162,10/26/2025,C20808,Consumer,NORTH,Online,Office Supplies,Stapler,1,222.99,0.1,14,No,Wallet,200.69,32.59
+O747117,8/17/2025,C07494,Consumer,South,Store,Office Supplies,Pens,1,104.99,,8,No,Card,99.74,12.33
+O325251,9/9/2025,C73748, corporate ,South,Online,Furniture,Lamp,6,284,,19.5,Yes,Cash,1448.4,298.93
+O925431,8/22/2025,C64787,Consumer,East,Store,Office Supplies,Pens,3,49,0.1,,No,Cash,132.3,11.2
+O096572,9/11/2025,C69596,Corporate,West,ONLINE,Electronics,Mouse,6,89.99,0.15,10.5,No,Transfer,458.95,32.5
+O227099,8/23/2025,C53212,Corporate,East,Online,Office Supplies, pens ,4,130.99,0.15,17,No,Cash,445.37,58.91
+O962747,9/15/2025,C34089,Corporate,South,PARTNER,OFFICE SUPPLIES, pens ,2,327.49,0,5,No,Card,654.98,69.3
+O828992,9/4/2025,C20597, consumer , north , partner ,Furniture,Lamp,3,138.49,0.05,14.5,No,Cash,394.7,38.28
+O070862,9/20/2025,C61168,Corporate,SOUTH,Online,Office Supplies,Paper,7,72.49,0.15,20,No,Wallet,431.32,31.87
+O611292,10/23/2025,C46427,Corporate,,Online,Electronics,HEADPHONES,6,$164.00 ,0.05,10,No,Card,934.8,140.64
+O694884,7/19/2025,C15265,Home Office,,Online,Furniture,Chair,5,112,0,19,Yes,Transfer,560,101.33
+O848530,9/6/2025,C26930,Corporate,East,Store,Furniture,,5,$75.49 ,0.1,23.5,No,Card,339.7,67.33
+O202900,8/22/2025,C36859,Consumer,East,Store,Furniture,Bookshelf,2,316.49,0.15,23,No,Cash,538.03,68.66
+O932899,8/12/2025,C09430,Consumer,North,Store,Electronics,KEYBOARD,2,315.99,,5,No,Wallet,537.18,123.59
+O731913,7/29/2025,C97983,Corporate,North,Store,Electronics,Mouse,7,34,0.2,3.5,Yes,Cash,190.4,33.32
+O608908,7/7/2025,C33912,Consumer,East,Online,Electronics,,6,163.99,0.2,6,Yes,Card,787.15,186.25
+O588346,8/18/2025,C52633,CORPORATE,West,Store,Electronics,HEADPHONES,4,137,0,,No,Cash,548,118.96
+O078828,10/8/2025,C35913,Consumer, north ,Online,Furniture,Desk,2,204.49,0.2,13,No,Wallet,327.18,20.64
+O807932,7/12/2025,C93285,Home Office,, online ,Electronics,Monitor,1,78.99,0,13,No,Transfer,78.99,5.62
+O247803,8/18/2025,C87773, home office ,North,Store,Office Supplies,,1,164.49,0.2,18,No,Wallet,131.59,13.11
+O296511,10/25/2025,C30506,CORPORATE,West,Partner,Electronics,Mouse,5,190.49,0,11.5,No,Wallet,952.45,71.83
+O473833,10/23/2025,C70855,Corporate,North,Store,Furniture,Bookshelf,3,22.49,0.15,21.5,No,Wallet,57.35,-13.81
+O631754,7/26/2025,C05243,Corporate,West,STORE,Electronics,Keyboard,3,42.99,,16,Yes,Transfer,109.62,-0.99
