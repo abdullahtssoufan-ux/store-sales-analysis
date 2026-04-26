@@ -9,8 +9,7 @@ An end-to-end data analysis project that explores store sales performance across
 ```
 store-sales-analysis/
 │
-├── day4_capstone.csv                  # Raw dataset (input)
-├── Capstone_05042026.ipynb            # Python notebook: cleaning, EDA & visuals
+├── capstone (2).csv                   # Raw dataset (input)
 ├── Python_Project_storesales_.csv     # Cleaned & enriched dataset (output)
 ├── Sales_Dashboard.pbix               # Interactive Power BI dashboard
 └── README.md
